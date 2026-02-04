@@ -1,3 +1,5 @@
+# LAB 2
+
 In this lab, I selected a spam email dataset from Kaggle.
 The task is a supervised classification problem where the goal is to classify emails as either spam or ham.
 The target variable represents the email label spam or ham.
